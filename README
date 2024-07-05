@@ -1,0 +1,23 @@
+                          TOY PROBLEMS PREREQUISITES
+This is a project written using the javascript programming language that contains a series of three programs namely:
+      1.Student grade generator(toy problem).
+      2.Speed detector(toy problem).
+      3.Net salary calculator(toy problem).  
+
+ 1.Student grade generator(toy problem)
+ This program prompts the user to enter marks scored in an examination and accordingly gives a grade according to the marks entered in the spaces provided.The grades given range from grade'A' to 'E'.
+ Marks entered should range between 0-100 marks.
+ Grades accorded have each been assigned to different ranges which include:-
+       Grade 'A': 79%-100%
+       Grade 'B': 60%-79%
+       Grade 'C': 49%-59%
+       Grade 'D': 40%-49%
+       Grade 'E': 0-40%
+
+Speed detector(toy problem)
+This is a program that prompts a user to enter the speed of a car recorded and accordingly gives demerit points if the speed recorded surpasses 70km/h.For every 5km/h of speed topping 70km/h a demerit point is given.The total number of points given are also printed out.
+If 12 points and over are awarded then the program prints "license suspended".
+
+Net salary calculator(toy problem)
+This is a program that lets the user input the basic salary and benefits of an individual to get the gross salary.It then deducts the Payee(i.e. tax), NHIF deductions and NSSF deductions from the gross salary to come up with the net salary earned.The percentages of the Payee,NHIF and NSSF deductions are provided for in the KRA official website and have been in effect since 1st July 2023.
+
